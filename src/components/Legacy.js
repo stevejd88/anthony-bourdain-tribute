@@ -16,9 +16,6 @@ const Legacy = () => (
       eloquentiam contentiones cum id, duo id quod tollit feugait. Ne vis prompta accusata, legere
       accusata contentiones pri ad. Sea ea augue platonem.
     </p>
-    <p>
-      hello
-    </p>
   </div>
 );
 
